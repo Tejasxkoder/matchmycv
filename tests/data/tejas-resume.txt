@@ -1,0 +1,75 @@
+                                            Tejas Kumar
+   +91-7417148519      —    # tejaskumardev77@gmail.com        —    ï LinkedIn     —     @Tejas devv     —     § GitHub
+
+Professional Summary
+Full Stack Developer specializing in Node.js, Express.js, Next.js, TypeScript and scalable backend systems. Experienced in
+building AI-powered applications, real-time systems with WebSockets, Docker-based infrastructure and modern cloud
+deployments. Passionate about backend engineering, DevOps and writing production-ready software while continuously
+strengthening Data Structures and Algorithms skills.
+Education
+Galgotias College of Engineering                                                               Aug 2023 – Present
+B.Tech in Computer Science and Engineering                                              Greater Noida, Uttar Pradesh
+   • Relevant Coursework: Data Structures and Algorithms, Database Management Systems, Operating Systems, Computer
+
+     Networks, Object-Oriented Programming, Software Engineering.
+
+Technical Skills
+  Languages: JavaScript, TypeScript, HTML5, CSS3, SQL
+  Frontend: React.js, Next.js, Tailwind CSS, Framer Motion, shadcn/ui
+  Backend: Node.js, Express.js, REST APIs, WebSockets, JWT Authentication
+  Databases & ORM: MongoDB, PostgreSQL, Redis, Prisma ORM
+  DevOps & Tools: Docker, Kubernetes, Turborepo (Monorepo), Git, GitHub, Postman
+  AI, APIs & Deployment: Claude API, Deepgram SDK, Judge0 API, Vercel, Railway
+
+Work Experience
+Freelance Full Stack Developer                                                                        Jan 2026 – Present
+Remote
+   • Worked on the commercial real estate platform as a Freelance Full Stack Developer.
+
+   • Developed responsive frontend interfaces using Next.js, TypeScript, Tailwind CSS and reusable UI components.
+
+   • Integrated REST APIs, collaborated with backend developers and optimized application performance.
+
+   • Managed code using GitHub and deployment workflows with Vercel and Railway.
+
+
+Projects
+PrepDost | Node.js, Express, MongoDB, Claude API, Deepgram                                            May 2026 – Present
+   • AI-powered interview preparation platform with text-based and real-time voice mock interviews, integrating the Claude
+
+     API for AI-driven evaluation and the Deepgram SDK for speech-to-text/text-to-speech.
+   • Built a Judge0-based code execution engine with AI-powered code review for DSA rounds, following a layered
+
+     architecture of controllers, services, and providers.
+   • Hardened the backend for production with JWT authentication, custom error handling, rate limiting, and Helmet-based
+
+     security; deployed on Railway and Vercel.
+   • Open-sourced the project under the MIT license with complete documentation to support community contribution.
+
+Sandboxd | Turborepo, Express, PostgreSQL, Docker, WebSockets, Redis                                    Jul 2026 – Present
+   • Browser-based cloud IDE in the style of Gitpod/CodeSandbox, built using a Turborepo monorepo with Docker-based
+
+     container orchestration via Dockerode.
+   • Implemented a real-time in-browser terminal using a WebSocket PTY gateway backed by docker exec, rendered on the
+
+     frontend with xterm.js.
+   • Added Redis-based session activity tracking with an idle-reaper for automatic resource cleanup and graceful shutdown
+
+     handling.
+Affnet Consultants | Next.js, TypeScript, Tailwind CSS, Express.js, MongoDB, JWT                     Jan 2026 – May 2026
+   • Building a production-grade commercial real estate platform with a modern full-stack architecture, focused on
+
+     performance, scalability, and user experience.
+   • Designed reusable frontend components using Next.js App Router, TypeScript, Tailwind CSS, Framer Motion, and
+
+     shadcn/ui while integrating secure REST APIs with the backend.
+   • Implemented responsive property listings, filtering, SEO optimizations, and deployment workflows using Git, Vercel, and
+
+     Railway in collaboration with a distributed development team.
+Achievements
+    • Built multiple production-style full stack applications using Next.js, Node.js, Docker, PostgreSQL and AI APIs.
+    • Active GitHub developer with hands-on experience building scalable backend systems and modern web applications.
+    • Regularly practice Data Structures and Algorithms using Java on LeetCode.
+
+    • Experience deploying full stack applications using Vercel, Railway and GitHub workflows.
+
