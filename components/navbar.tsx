@@ -1,13 +1,12 @@
 import Link from "next/link";
 import { ThemeToggle } from "./theme-toggle";
+import { BrandMark } from "./brand-mark";
 
 export function Navbar() {
   return (
     <nav className="max-w-6xl mx-auto flex items-center justify-between px-6 py-5 border-b border-hair dark:border-white/10">
       <div className="flex items-center gap-2">
-        <span className="text-action font-bold tracking-tighter" aria-hidden="true">
-          •••
-        </span>
+        <BrandMark />
         <span className="font-display font-bold text-lg">MatchMyCV</span>
       </div>
       <div className="flex items-center gap-3 sm:gap-4">

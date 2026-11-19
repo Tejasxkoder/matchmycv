@@ -8,6 +8,7 @@ import { initials, useProfile } from "@/lib/profile-store";
 import { useLiveAnalysis } from "@/lib/use-live-analysis";
 import { countChecks } from "@/lib/analysis-types";
 import { ThemeToggle } from "./theme-toggle";
+import { BrandMark } from "./brand-mark";
 
 export function Sidebar({
   open,
@@ -32,9 +33,7 @@ export function Sidebar({
     >
       <div className="flex items-center justify-between px-5 pt-5">
         <Link href="/" className="flex items-center gap-2" onClick={onClose}>
-          <span className="text-action font-bold tracking-tighter" aria-hidden="true">
-            •••
-          </span>
+          <BrandMark />
           <span className="font-display font-bold text-lg">MatchMyCV</span>
         </Link>
         <button

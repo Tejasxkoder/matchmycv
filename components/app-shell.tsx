@@ -5,6 +5,7 @@ import { Menu } from "lucide-react";
 import { syncLatestChecks } from "@/lib/versions-store";
 import { useLiveAnalysis } from "@/lib/use-live-analysis";
 import { Sidebar } from "./sidebar";
+import { BrandMark } from "./brand-mark";
 
 export function AppShell({ children }: { children: React.ReactNode }) {
   const [open, setOpen] = useState(false);
@@ -36,9 +37,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
             <Menu size={20} />
           </button>
           <span className="flex items-center gap-2">
-            <span className="text-action font-bold tracking-tighter" aria-hidden="true">
-              •••
-            </span>
+            <BrandMark size={24} />
             <span className="font-display font-bold">MatchMyCV</span>
           </span>
         </div>
